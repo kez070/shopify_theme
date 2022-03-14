@@ -1,1 +1,310 @@
-{"sections":{"main":{"type":"main-product","blocks":{"vendor":{"type":"text","settings":{"text":"{{ product.vendor }}","text_style":"uppercase"}},"title":{"type":"title","settings":{}},"caption":{"type":"text","settings":{"text":"{{ product.metafields.descriptors.subtitle.value }}","text_style":"subtitle"}},"price":{"type":"price","settings":{}},"variant_picker":{"type":"variant_picker","settings":{"picker_type":"button"}},"quantity_selector":{"type":"quantity_selector","settings":{}},"buy_buttons":{"type":"buy_buttons","settings":{"show_dynamic_checkout":true}},"description":{"type":"description","settings":{}},"share":{"type":"share","disabled":true,"settings":{"share_label":"Share"}},"collapsible-content-0":{"type":"collapsible_tab","disabled":true,"settings":{"heading":"Ingredients","icon":"plant","content":"","page":""}},"collapsible-content-1":{"type":"collapsible_tab","settings":{"heading":"Details","icon":"clipboard","content":"","page":""}},"collapsible-content-2":{"type":"collapsible_tab","settings":{"heading":"Shipping","icon":"truck","content":"","page":""}},"collapsible-content-3":{"type":"collapsible_tab","settings":{"heading":"Compatibility","icon":"check_mark","content":"","page":""}}},"block_order":["vendor","title","caption","price","variant_picker","quantity_selector","buy_buttons","description","share","collapsible-content-0","collapsible-content-1","collapsible-content-2","collapsible-content-3"],"settings":{"enable_sticky_info":true,"gallery_layout":"stacked","media_size":"medium","mobile_thumbnails":"hide","hide_variants":false,"enable_video_looping":false,"padding_top":24,"padding_bottom":60}},"rich-text":{"type":"rich-text","blocks":{"rich-text-0":{"type":"heading","settings":{"heading":"Talk about your brand","heading_size":"h2"}},"rich-text-1":{"type":"text","settings":{"text":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"}}},"block_order":["rich-text-0","rich-text-1"],"settings":{"color_scheme":"accent-2","full_width":true,"padding_top":60,"padding_bottom":72}},"multicolumn":{"type":"multicolumn","blocks":{"multicolumn-0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/lightning_a7b04286-aafb-4c96-8645-8e947baebbf6.png","title":"Column","text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","link_label":"","link":""}},"multicolumn-1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/handhsake_1b25a51e-21a9-4f2d-8572-03c2a4269865.png","title":"Column","text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","link_label":"","link":""}},"multicolumn-2":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/lightning_a7b04286-aafb-4c96-8645-8e947baebbf6.png","title":"Column","text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","link_label":"","link":""}}},"block_order":["multicolumn-0","multicolumn-1","multicolumn-2"],"settings":{"title":"","image_width":"half","image_ratio":"adapt","column_alignment":"center","background_style":"primary","button_label":"","button_link":"","swipe_on_mobile":false,"color_scheme":"background-1","padding_top":24,"padding_bottom":0}},"image-with-text":{"type":"image-with-text","blocks":{"image-with-text-0":{"type":"heading","settings":{"heading":"Image with text","heading_size":"h1"}},"image-with-text-1":{"type":"text","settings":{"text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","text_style":"body"}}},"block_order":["image-with-text-0","image-with-text-1"],"settings":{"height":"large","desktop_image_width":"medium","layout":"text_first","desktop_content_position":"middle","desktop_content_alignment":"left","content_layout":"no-overlap","color_scheme":"accent-2","mobile_content_alignment":"left","padding_top":28,"padding_bottom":36}},"newsletter":{"type":"newsletter","blocks":{"newsletter-0":{"type":"heading","settings":{"heading":"Subscribe to our emails"}},"newsletter-1":{"type":"paragraph","settings":{"text":"<p>Join our email list for exclusive offers and the latest news. <\/p>"}},"newsletter-2":{"type":"email_form","settings":{}}},"block_order":["newsletter-0","newsletter-1","newsletter-2"],"settings":{"color_scheme":"background-2","full_width":true,"padding_top":68,"padding_bottom":52}},"video":{"type":"video","disabled":true,"settings":{"heading":"","video_url":"https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc","description":"","full_width":false,"color_scheme":"background-1","padding_top":24,"padding_bottom":24}},"main-product-recommendations":{"type":"product-recommendations","disabled":true,"settings":{"heading":"You may also like","color_scheme":"background-1","image_ratio":"adapt","show_secondary_image":false,"show_vendor":false,"show_rating":false,"padding_top":36,"padding_bottom":24}}},"order":["main","rich-text","multicolumn","image-with-text","newsletter","video","main-product-recommendations"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "caption": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "collapsible-content-0": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Ingredients",
+            "icon": "plant",
+            "content": "",
+            "page": ""
+          }
+        },
+        "collapsible-content-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Details",
+            "icon": "clipboard",
+            "content": "<p>Acceptable Range Variability (add link to pdf here)<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible-content-2": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Shipping",
+            "icon": "truck",
+            "content": "",
+            "page": ""
+          }
+        },
+        "collapsible-content-3": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Compatibility",
+            "icon": "check_mark",
+            "content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "caption",
+        "price",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "description",
+        "share",
+        "collapsible-content-0",
+        "collapsible-content-1",
+        "collapsible-content-2",
+        "collapsible-content-3"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "gallery_layout": "stacked",
+        "media_size": "medium",
+        "mobile_thumbnails": "hide",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 24,
+        "padding_bottom": 60
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "multicolumn-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lightning_a7b04286-aafb-4c96-8645-8e947baebbf6.png",
+            "title": "Ready To Ship",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "multicolumn-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/handhsake_1b25a51e-21a9-4f2d-8572-03c2a4269865.png",
+            "title": "PBT Keycaps",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "multicolumn-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lightning_a7b04286-aafb-4c96-8645-8e947baebbf6.png",
+            "title": "Cherry Profile",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "multicolumn-0",
+        "multicolumn-1",
+        "multicolumn-2"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false,
+        "color_scheme": "background-1",
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    },
+    "rich-text": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "rich-text-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h2"
+          }
+        },
+        "rich-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "rich-text-0",
+        "rich-text-1"
+      ],
+      "settings": {
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 60,
+        "padding_bottom": 72
+      }
+    },
+    "image-with-text": {
+      "type": "image-with-text",
+      "blocks": {
+        "image-with-text-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Process",
+            "heading_size": "h2"
+          }
+        },
+        "image-with-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We produce and package our keycaps in New York.....<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "image-with-text-0",
+        "image-with-text-1"
+      ],
+      "settings": {
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "inverse",
+        "mobile_content_alignment": "left",
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "main-product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "heading": "You may also like",
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "padding_top": 36,
+        "padding_bottom": 24
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "blocks": {
+        "newsletter-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails"
+          }
+        },
+        "newsletter-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Join our email list for exclusive offers and the latest news. <\/p>"
+          }
+        },
+        "newsletter-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "newsletter-0",
+        "newsletter-1",
+        "newsletter-2"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 68,
+        "padding_bottom": 52
+      }
+    },
+    "video": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    }
+  },
+  "order": [
+    "main",
+    "multicolumn",
+    "rich-text",
+    "image-with-text",
+    "main-product-recommendations",
+    "newsletter",
+    "video"
+  ]
+}
