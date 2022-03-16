@@ -13,7 +13,7 @@
         "164686089739008ceb-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "PBT material",
             "heading_size": "h1"
           }
         },
@@ -26,6 +26,7 @@
         },
         "164686089739008ceb-2": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": ""
@@ -38,7 +39,7 @@
         "164686089739008ceb-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Asset_6_2x_e7689117-30f4-47bf-a2d9-f9331809ce0a.png",
+        "image": "shopify:\/\/shop_images\/Asset_9_2x_cf9e8d1f-2f84-446a-a5cb-319d2b20b31b.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -57,7 +58,7 @@
         "16468609074fdc28cc-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Ready to ship",
             "heading_size": "h1"
           }
         },
@@ -70,6 +71,7 @@
         },
         "16468609074fdc28cc-2": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": ""
@@ -82,7 +84,7 @@
         "16468609074fdc28cc-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Asset_7_2x_15ca3a13-e575-4f31-ae6e-001a8b9f4262.png",
+        "image": "shopify:\/\/shop_images\/Asset_10_2x_23c53fe3-465d-4fde-a024-1561591e2bcd.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -101,7 +103,7 @@
         "164686093452616b3e-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Cherry profile",
             "heading_size": "h1"
           }
         },
@@ -114,6 +116,7 @@
         },
         "164686093452616b3e-2": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": ""
@@ -126,7 +129,7 @@
         "164686093452616b3e-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Asset_5_2x_c20a96b5-2e28-4181-b839-121785e0dcb1.png",
+        "image": "shopify:\/\/shop_images\/Asset_8_2x_4e2590c4-e2f7-49a5-84c4-83626b0b9509.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
