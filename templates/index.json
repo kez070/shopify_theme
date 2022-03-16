@@ -20,9 +20,8 @@
         },
         "7ea33017-c1f6-4868-a804-a3a01556c629": {
           "type": "buttons",
-          "disabled": true,
           "settings": {
-            "button_label_1": "Button label",
+            "button_label_1": "SHOP NOW",
             "button_link_1": "shopify:\/\/collections\/all",
             "button_style_secondary_1": false,
             "button_label_2": "",
@@ -43,7 +42,7 @@
         "adapt_height_first_image": false,
         "desktop_content_position": "bottom-left",
         "show_text_box": true,
-        "desktop_content_alignment": "right",
+        "desktop_content_alignment": "left",
         "color_scheme": "accent-2",
         "mobile_content_alignment": "right",
         "stack_images_on_mobile": true,
