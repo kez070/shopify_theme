@@ -1,1 +1,183 @@
-{"sections":{"main":{"type":"main-page","settings":{"padding_top":36,"padding_bottom":36}},"1646860897db075e7f":{"type":"image-with-text","blocks":{"164686089739008ceb-0":{"type":"heading","settings":{"heading":"Image with text","heading_size":"h1"}},"164686089739008ceb-1":{"type":"text","settings":{"text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","text_style":"body"}},"164686089739008ceb-2":{"type":"button","settings":{"button_label":"Button label","button_link":""}}},"block_order":["164686089739008ceb-0","164686089739008ceb-1","164686089739008ceb-2"],"settings":{"height":"adapt","desktop_image_width":"medium","layout":"image_first","desktop_content_position":"top","desktop_content_alignment":"left","content_layout":"no-overlap","color_scheme":"background-1","mobile_content_alignment":"left","padding_top":36,"padding_bottom":36}},"1646860907418c2e10":{"type":"image-with-text","blocks":{"16468609074fdc28cc-0":{"type":"heading","settings":{"heading":"Image with text","heading_size":"h1"}},"16468609074fdc28cc-1":{"type":"text","settings":{"text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","text_style":"body"}},"16468609074fdc28cc-2":{"type":"button","settings":{"button_label":"Button label","button_link":""}}},"block_order":["16468609074fdc28cc-0","16468609074fdc28cc-1","16468609074fdc28cc-2"],"settings":{"height":"adapt","desktop_image_width":"medium","layout":"text_first","desktop_content_position":"top","desktop_content_alignment":"left","content_layout":"no-overlap","color_scheme":"background-1","mobile_content_alignment":"left","padding_top":36,"padding_bottom":36}},"164686093436e462b7":{"type":"image-with-text","blocks":{"164686093452616b3e-0":{"type":"heading","settings":{"heading":"Image with text","heading_size":"h1"}},"164686093452616b3e-1":{"type":"text","settings":{"text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","text_style":"body"}},"164686093452616b3e-2":{"type":"button","settings":{"button_label":"Button label","button_link":""}}},"block_order":["164686093452616b3e-0","164686093452616b3e-1","164686093452616b3e-2"],"settings":{"height":"adapt","desktop_image_width":"medium","layout":"image_first","desktop_content_position":"top","desktop_content_alignment":"left","content_layout":"no-overlap","color_scheme":"background-1","mobile_content_alignment":"left","padding_top":36,"padding_bottom":36}}},"order":["main","1646860897db075e7f","1646860907418c2e10","164686093436e462b7"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1646860897db075e7f": {
+      "type": "image-with-text",
+      "blocks": {
+        "164686089739008ceb-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "164686089739008ceb-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "164686089739008ceb-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "164686089739008ceb-0",
+        "164686089739008ceb-1",
+        "164686089739008ceb-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Asset_6_2x_e7689117-30f4-47bf-a2d9-f9331809ce0a.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1646860907418c2e10": {
+      "type": "image-with-text",
+      "blocks": {
+        "16468609074fdc28cc-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "16468609074fdc28cc-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "16468609074fdc28cc-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16468609074fdc28cc-0",
+        "16468609074fdc28cc-1",
+        "16468609074fdc28cc-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Asset_7_2x_15ca3a13-e575-4f31-ae6e-001a8b9f4262.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "164686093436e462b7": {
+      "type": "image-with-text",
+      "blocks": {
+        "164686093452616b3e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "164686093452616b3e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "164686093452616b3e-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "164686093452616b3e-0",
+        "164686093452616b3e-1",
+        "164686093452616b3e-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Asset_5_2x_c20a96b5-2e28-4181-b839-121785e0dcb1.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16474530862134b58a": {
+      "type": "newsletter",
+      "blocks": {
+        "164745308629dc0b61-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails"
+          }
+        },
+        "164745308629dc0b61-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "164745308629dc0b61-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "164745308629dc0b61-0",
+        "164745308629dc0b61-1",
+        "164745308629dc0b61-2"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1646860897db075e7f",
+    "1646860907418c2e10",
+    "164686093436e462b7",
+    "16474530862134b58a"
+  ]
+}
