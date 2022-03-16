@@ -2,11 +2,11 @@
   "current": {
     "colors_solid_button_labels": "#ffffff",
     "colors_accent_1": "#ff2b76",
-    "colors_accent_2": "#ff2b76",
+    "colors_accent_2": "#696eff",
     "gradient_accent_2": "",
-    "colors_background_1": "#ffffff",
+    "colors_background_1": "#fff",
     "gradient_background_1": "",
-    "colors_background_2": "#f7f7f7",
+    "colors_background_2": "#dcdcff",
     "gradient_background_2": "",
     "type_header_font": "avenir_next_rounded_n7",
     "heading_scale": 135,
@@ -23,7 +23,7 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
-          "logo": "shopify:\/\/shop_images\/Asset_3_2x_0897bf0c-01c3-49ae-8cae-17209fcff1b1.png",
+          "logo": "shopify:\/\/shop_images\/Asset_1_3x_ae27c7a2-28d2-446f-9b46-8aaa727f0596.png",
           "logo_width": 100,
           "logo_position": "middle-left",
           "menu": "main-menu",
@@ -73,7 +73,7 @@
           "footer-text-1"
         ],
         "settings": {
-          "color_scheme": "background-2",
+          "color_scheme": "inverse",
           "newsletter_enable": false,
           "newsletter_heading": "Subscribe to our emails",
           "show_social": true,

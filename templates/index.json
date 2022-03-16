@@ -14,12 +14,13 @@
         "e132d87c-bbb8-49f5-8df3-5e62ad2a9549": {
           "type": "heading",
           "settings": {
-            "heading": "Strawberry Milk",
+            "heading": "Keycaps made to pop!",
             "heading_size": "medium"
           }
         },
         "7ea33017-c1f6-4868-a804-a3a01556c629": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_label_1": "Button label",
             "button_link_1": "shopify:\/\/collections\/all",
@@ -36,11 +37,11 @@
         "7ea33017-c1f6-4868-a804-a3a01556c629"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/front_8_R.png",
+        "image": "shopify:\/\/shop_images\/image_8.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": false,
-        "desktop_content_position": "bottom-right",
+        "desktop_content_position": "bottom-left",
         "show_text_box": true,
         "desktop_content_alignment": "right",
         "color_scheme": "accent-2",
@@ -55,7 +56,7 @@
         "rich-text-0": {
           "type": "heading",
           "settings": {
-            "heading": "Cool People Have Cool Keycaps",
+            "heading": "Cool people have cool keycaps :)",
             "heading_size": "h2"
           }
         },
@@ -100,7 +101,7 @@
         "multicolumn-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Asset_3_2x_0897bf0c-01c3-49ae-8cae-17209fcff1b1.png",
+            "image": "shopify:\/\/shop_images\/lightning_a7b04286-aafb-4c96-8645-8e947baebbf6.png",
             "title": "Accessibility",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
@@ -110,7 +111,7 @@
         "multicolumn-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Asset_3_2x_0897bf0c-01c3-49ae-8cae-17209fcff1b1.png",
+            "image": "shopify:\/\/shop_images\/handhsake_1b25a51e-21a9-4f2d-8572-03c2a4269865.png",
             "title": "Collaboration",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
@@ -120,7 +121,7 @@
         "multicolumn-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Asset_3_2x_0897bf0c-01c3-49ae-8cae-17209fcff1b1.png",
+            "image": "shopify:\/\/shop_images\/Asset_4_3x_34be9251-b37a-45b6-a989-a4ef7af5bdb1.png",
             "title": "Unique Designs",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
@@ -153,8 +154,8 @@
         "image-with-text-0": {
           "type": "heading",
           "settings": {
-            "heading": "Collaborate with Us!",
-            "heading_size": "h1"
+            "heading": "Collaborate with us!",
+            "heading_size": "h0"
           }
         },
         "77e04bf5-7356-4876-936a-faadf01e4f5e": {
@@ -177,7 +178,7 @@
         "desktop_content_position": "bottom",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
-        "color_scheme": "background-2",
+        "color_scheme": "accent-1",
         "mobile_content_alignment": "left",
         "padding_top": 0,
         "padding_bottom": 20
@@ -228,7 +229,7 @@
         "newsletter-2"
       ],
       "settings": {
-        "color_scheme": "background-2",
+        "color_scheme": "inverse",
         "full_width": true,
         "padding_top": 68,
         "padding_bottom": 52
