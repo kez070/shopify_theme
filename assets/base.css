@@ -19,6 +19,18 @@
   }
 }
 
+@media screen and (min-width: 750px) {
+  #Slider-template--15460591567023__1647133687c9f7a675 {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #Slider-template--15460591567023__164696165773dc3df7 {
+    display: none;
+  }
+}
+
 .color-background-2 {
   --color-foreground: var(--color-base-text);
   --color-background: var(--color-base-background-2);
