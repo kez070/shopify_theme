@@ -269,7 +269,7 @@
         "content_layout": "no-overlap",
         "color_scheme": "background-2",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
+        "padding_top": 0,
         "padding_bottom": 36
       }
     },
@@ -339,6 +339,7 @@
     },
     "video": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "heading": "",
         "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
@@ -351,6 +352,7 @@
     },
     "main-product-recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "settings": {
         "heading": "You may also like",
         "color_scheme": "background-1",
@@ -367,6 +369,7 @@
       "blocks": {
         "newsletter-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Subscribe to our emails"
           }
@@ -389,7 +392,7 @@
         "newsletter-2"
       ],
       "settings": {
-        "color_scheme": "background-2",
+        "color_scheme": "inverse",
         "full_width": true,
         "padding_top": 68,
         "padding_bottom": 52
