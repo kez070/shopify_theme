@@ -126,7 +126,7 @@
         "multicolumn-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/lightning_a7b04286-aafb-4c96-8645-8e947baebbf6.png",
+            "image": "shopify:\/\/shop_images\/Asset_10_2x_d510c6c7-64bc-4cfb-8ded-b58f5a898cc8.png",
             "title": "Ready To Ship",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
@@ -136,7 +136,7 @@
         "multicolumn-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/handhsake_1b25a51e-21a9-4f2d-8572-03c2a4269865.png",
+            "image": "shopify:\/\/shop_images\/Asset_9_2x_b1086c0a-cad6-4e30-aa36-b8f446117816.png",
             "title": "PBT Keycaps",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
@@ -146,8 +146,18 @@
         "multicolumn-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/lightning_a7b04286-aafb-4c96-8645-8e947baebbf6.png",
+            "image": "shopify:\/\/shop_images\/Asset_8_2x_32ca21ad-4580-40b4-a696-0db26bd30ab2.png",
             "title": "Cherry Profile",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "c6618ba9-e64b-46eb-bd4f-72104518bdbc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Asset_10_2x_d510c6c7-64bc-4cfb-8ded-b58f5a898cc8.png",
+            "title": "Compatible",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
@@ -157,17 +167,18 @@
       "block_order": [
         "multicolumn-0",
         "multicolumn-1",
-        "multicolumn-2"
+        "multicolumn-2",
+        "c6618ba9-e64b-46eb-bd4f-72104518bdbc"
       ],
       "settings": {
         "title": "",
-        "image_width": "half",
+        "image_width": "full",
         "image_ratio": "adapt",
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "color_scheme": "background-1",
         "padding_top": 24,
         "padding_bottom": 24
@@ -204,6 +215,7 @@
     },
     "image-with-text": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "image-with-text-0": {
           "type": "heading",
@@ -256,6 +268,7 @@
       "blocks": {
         "newsletter-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Subscribe to our emails"
           }
@@ -278,7 +291,7 @@
         "newsletter-2"
       ],
       "settings": {
-        "color_scheme": "background-2",
+        "color_scheme": "inverse",
         "full_width": true,
         "padding_top": 68,
         "padding_bottom": 52
