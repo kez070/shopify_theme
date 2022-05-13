@@ -55,14 +55,14 @@
         "rich-text-0": {
           "type": "heading",
           "settings": {
-            "heading": "Cool people have cool keycaps :)",
+            "heading": "Keycaps inspired by your creativity",
             "heading_size": "h2"
           }
         },
         "rich-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>duoQ studio was started as a way to make uniquely designed keycap sets more accessible to the everyday consumer. Whether it’s purely functional or more so of a hobby, we hope our designs and products excite and inspire you. <\/p>"
           }
         }
       },
@@ -102,7 +102,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Asset_2_3x_78b490c5-b989-459d-af22-77e1cb853614.png",
             "title": "Accessibility",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>While we may have limited runs and collaborations, we aim to keep products in stock and accessible wherever we can. <\/p>",
             "link_label": "",
             "link": ""
           }
@@ -112,7 +112,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Asset_3_3x_24a3d5fa-b485-4ed2-8ffe-ce5badb05d4d.png",
             "title": "Collaboration",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Our mission is to partner with creators and artists alike to produce unique keycaps and designs that blend creativity and community.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -122,7 +122,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Asset_4_3x_16ae24c9-5e0f-4854-9d0c-4904e1534108.png",
             "title": "Unique Designs",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Our original designs are inspired by everyday things and cater to everyone, while our team is constantly striving to create more versatile offerings.<\/p>",
             "link_label": "",
             "link": ""
           }
