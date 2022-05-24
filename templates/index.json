@@ -157,6 +157,13 @@
             "heading_size": "h2"
           }
         },
+        "d9916169-5db8-4784-8064-2c47ebd2b869": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our core mission is to bring to life custom keycap designs that you envision. So reach out to us......<\/p>",
+            "text_style": "body"
+          }
+        },
         "77e04bf5-7356-4876-936a-faadf01e4f5e": {
           "type": "button",
           "settings": {
@@ -167,6 +174,7 @@
       },
       "block_order": [
         "image-with-text-0",
+        "d9916169-5db8-4784-8064-2c47ebd2b869",
         "77e04bf5-7356-4876-936a-faadf01e4f5e"
       ],
       "settings": {
@@ -205,7 +213,6 @@
       "blocks": {
         "newsletter-0": {
           "type": "heading",
-          "disabled": true,
           "settings": {
             "heading": "Subscribe to our emails"
           }
@@ -228,10 +235,10 @@
         "newsletter-2"
       ],
       "settings": {
-        "color_scheme": "inverse",
+        "color_scheme": "background-2",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     }
   },

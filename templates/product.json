@@ -181,11 +181,12 @@
         "swipe_on_mobile": false,
         "color_scheme": "background-1",
         "padding_top": 0,
-        "padding_bottom": 100
+        "padding_bottom": 48
       }
     },
     "rich-text": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "rich-text-0": {
           "type": "heading",
@@ -217,7 +218,6 @@
       "blocks": {
         "newsletter-0": {
           "type": "heading",
-          "disabled": true,
           "settings": {
             "heading": "Subscribe to our emails"
           }
@@ -240,10 +240,10 @@
         "newsletter-2"
       ],
       "settings": {
-        "color_scheme": "inverse",
+        "color_scheme": "background-2",
         "full_width": true,
-        "padding_top": 68,
-        "padding_bottom": 52
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "main-product-recommendations": {
