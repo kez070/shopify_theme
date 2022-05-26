@@ -71,7 +71,7 @@
           "settings": {
             "heading": "Details",
             "icon": "clipboard",
-            "content": "<p>- pbt keycaps<\/p><p>- cherry profile<\/p><p>- xxx pieces<\/p><p>Acceptable Range Variability (add link to pdf here)<\/p>",
+            "content": "<p>PBT keycaps<\/p><p>Cherry profile<\/p><p>xxx pieces<\/p><p>Acceptable Manufacturing Standards can be found in the PDF linked HERE.<\/p>",
             "page": ""
           }
         },
@@ -80,7 +80,7 @@
           "settings": {
             "heading": "Shipping",
             "icon": "truck",
-            "content": "<p>This item is ready to ship and will ship within 1-3 business days. <\/p>",
+            "content": "<p>This item is in stock and ready to ship within 1-3 business days after your order is placed.<\/p>",
             "page": ""
           }
         },
@@ -128,7 +128,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Asset_10_2x_d510c6c7-64bc-4cfb-8ded-b58f5a898cc8.png",
             "title": "Ready To Ship",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>All products labeled “Ready to ship” are in stock and can be shipped out ASAP!<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -138,7 +138,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Asset_9_2x_b1086c0a-cad6-4e30-aa36-b8f446117816.png",
             "title": "PBT Keycaps",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>DuoQ keycaps are made with PBT plastic and are durable and prone to shining.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -148,7 +148,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Asset_8_2x_32ca21ad-4580-40b4-a696-0db26bd30ab2.png",
             "title": "Cherry Profile",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Our keycaps are Cherry profile and are very comfortable for both gaming and typing.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -158,7 +158,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Asset_13_2x_d995c6f0-973f-4dc3-9b6d-0049ba07a252.png",
             "title": "Compatibility",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Every keycap set is compatible with cherry switches and most popular board models. <\/p>",
             "link_label": "",
             "link": ""
           }
