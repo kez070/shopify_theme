@@ -32,6 +32,12 @@
 }
 
 @media screen and (max-width: 750px) {
+  #shopify-section-template--15460591567023__rich-text {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 750px) {
   .homepage__banner__image {
     height: 200px;
   }
