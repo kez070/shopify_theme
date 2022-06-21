@@ -21,7 +21,7 @@
         "7ea33017-c1f6-4868-a804-a3a01556c629": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "SHOP NOW",
+            "button_label_1": "Shop Keycaps",
             "button_link_1": "shopify:\/\/collections\/all",
             "button_style_secondary_1": false,
             "button_label_2": "",
@@ -41,12 +41,12 @@
         "image_height": "large",
         "adapt_height_first_image": true,
         "desktop_content_position": "bottom-left",
-        "show_text_box": true,
+        "show_text_box": false,
         "desktop_content_alignment": "left",
         "color_scheme": "accent-2",
-        "mobile_content_alignment": "right",
+        "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
-        "show_text_below": false
+        "show_text_below": true
       }
     },
     "rich-text": {
