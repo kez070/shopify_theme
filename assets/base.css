@@ -32,13 +32,13 @@
 }
 
 @media screen and (max-width: 750px) {
-  #Banner-template--15460591567023__164686118618241905 {
+  .homepage__banner__image {
     height: 200px;
   }
 }
 
 @media screen and (min-width: 750px) {
-  #Banner-template--15460591567023__164686118618241905 {
+  .homepage__banner__image {
     height: 475px;
   }
 }
