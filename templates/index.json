@@ -39,7 +39,7 @@
         "image": "shopify:\/\/shop_images\/home_page_ea7b3c92-205e-40ed-b01f-80fdad505aa8.png",
         "image_overlay_opacity": 0,
         "image_height": "small",
-        "adapt_height_first_image": true,
+        "adapt_height_first_image": false,
         "desktop_content_position": "bottom-left",
         "show_text_box": true,
         "desktop_content_alignment": "left",
