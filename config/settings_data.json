@@ -13,6 +13,12 @@
     "type_body_font": "questrial_n4",
     "spacing_sections": 0,
     "favicon": "shopify:\/\/shop_images\/favicon-05.png",
+    "checkout_logo_image": "shopify:\/\/shop_images\/duoqfavicon-04.png",
+    "checkout_logo_size": "large",
+    "checkout_input_background_color_mode": "white",
+    "checkout_accent_color": "#696eff",
+    "checkout_button_color": "#696eff",
+    "checkout_error_color": "#ff2b76",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
