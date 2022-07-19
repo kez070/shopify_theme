@@ -106,7 +106,7 @@
       {%- if position == 1 -%}
         loading = "eager"
       {%- else -%}
-        {% unless lazy_load == false %}loading="lazy"{% endunless %}
+        {% unless lazy_load == false %}loading="eager"{% endunless %}
       {%- endif -%}
       width="973"
       height="{{ 973 | divided_by: media.preview_image.aspect_ratio | ceil }}"
