@@ -41,7 +41,7 @@
         "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_content_position": "bottom-left",
-        "show_text_box": false,
+        "show_text_box": true,
         "desktop_content_alignment": "left",
         "color_scheme": "accent-2",
         "mobile_content_alignment": "center",
@@ -178,14 +178,14 @@
         "77e04bf5-7356-4876-936a-faadf01e4f5e"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/duoQ_Collab_Banner_3600_x_1200_px.png",
+        "image": "shopify:\/\/shop_images\/Asset_13_2x_d995c6f0-973f-4dc3-9b6d-0049ba07a252.png",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "bottom",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
-        "color_scheme": "accent-1",
+        "color_scheme": "accent-2",
         "mobile_content_alignment": "left",
         "padding_top": 0,
         "padding_bottom": 0
