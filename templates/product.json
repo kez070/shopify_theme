@@ -78,7 +78,7 @@
         "collapsible-content-2": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Shipping",
+            "heading": "Ready To Ship",
             "icon": "truck",
             "content": "<p>This item is in stock and ready to ship within 1-3 business days after your order is placed.<\/p>",
             "page": ""
