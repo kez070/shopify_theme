@@ -41,7 +41,7 @@
         "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_content_position": "bottom-left",
-        "show_text_box": false,
+        "show_text_box": true,
         "desktop_content_alignment": "left",
         "color_scheme": "accent-2",
         "mobile_content_alignment": "center",
