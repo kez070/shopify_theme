@@ -50,6 +50,7 @@
           },
           "footer-text-0": {
             "type": "text",
+            "disabled": true,
             "settings": {
               "heading": "Our Store",
               "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
