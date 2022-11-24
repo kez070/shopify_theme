@@ -22,6 +22,19 @@
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
+        "blocks": {
+          "06222460-5d9a-4c70-b549-10b36b3bab10": {
+            "type": "announcement",
+            "settings": {
+              "text": "Cyber Week Sale Sale! 20% Off All Keycaps!",
+              "color_scheme": "accent-1",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "06222460-5d9a-4c70-b549-10b36b3bab10"
+        ],
         "settings": {
         }
       },
