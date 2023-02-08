@@ -1,0 +1,270 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "caption": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "collapsible-content-0": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Ingredients",
+            "icon": "plant",
+            "content": "",
+            "page": ""
+          }
+        },
+        "collapsible-content-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Details",
+            "icon": "clipboard",
+            "content": "<p>PBT keycaps<\/p><p>Cherry profile<\/p><p>163 pieces - Novelties Included!<\/p><p>Acceptable Manufacturing Standards can be found in the PDF linked <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0614\/3479\/0063\/files\/Acceptable.pdf?v=1658281773\" target=\"_blank\" title=\"Acceptable Standards\">HERE<\/a>.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible-content-2": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Ready To Ship",
+            "icon": "truck",
+            "content": "<p>This item is in stock and ready to ship within 1-3 business days after your order is placed.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible-content-3": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Compatibility",
+            "icon": "check_mark",
+            "content": "<p>Switch Compatibility - <\/p><p>MX Switch Compatible<\/p><p><\/p><p>Layout Compatibility -<\/p><p>ANSI<\/p><p>ISO<\/p><p>ALICE<\/p><p>ETC...<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "caption",
+        "price",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "description",
+        "share",
+        "collapsible-content-0",
+        "collapsible-content-1",
+        "collapsible-content-2",
+        "collapsible-content-3"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "gallery_layout": "stacked",
+        "media_size": "medium",
+        "mobile_thumbnails": "show",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 24,
+        "padding_bottom": 60
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "multicolumn-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Asset_10_2x_d510c6c7-64bc-4cfb-8ded-b58f5a898cc8.png",
+            "title": "Ready To Ship",
+            "text": "<p>All products labeled “Ready to ship” are in stock and can be shipped out ASAP!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "multicolumn-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Asset_9_2x_b1086c0a-cad6-4e30-aa36-b8f446117816.png",
+            "title": "PBT Keycaps",
+            "text": "<p>DuoQ keycaps are made with PBT plastic and are durable and prone to shining.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "multicolumn-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Asset_8_2x_32ca21ad-4580-40b4-a696-0db26bd30ab2.png",
+            "title": "Cherry Profile",
+            "text": "<p>Our keycaps are Cherry profile and are very comfortable for both gaming and typing.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "c6618ba9-e64b-46eb-bd4f-72104518bdbc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Asset_13_2x_d995c6f0-973f-4dc3-9b6d-0049ba07a252.png",
+            "title": "Compatibility",
+            "text": "<p>Every keycap set is compatible with cherry switches and most popular board models. <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "multicolumn-0",
+        "multicolumn-1",
+        "multicolumn-2",
+        "c6618ba9-e64b-46eb-bd4f-72104518bdbc"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false,
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 48
+      }
+    },
+    "rich-text": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "rich-text-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h2"
+          }
+        },
+        "rich-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "rich-text-0",
+        "rich-text-1"
+      ],
+      "settings": {
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 60,
+        "padding_bottom": 72
+      }
+    },
+    "main-product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "You may also like",
+        "color_scheme": "accent-2",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "blocks": {
+        "newsletter-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails"
+          }
+        },
+        "newsletter-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Join our email list for exclusive offers and the latest news. <\/p>"
+          }
+        },
+        "newsletter-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "newsletter-0",
+        "newsletter-1",
+        "newsletter-2"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "multicolumn",
+    "rich-text",
+    "main-product-recommendations",
+    "newsletter"
+  ]
+}
