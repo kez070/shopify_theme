@@ -25,8 +25,9 @@
         "blocks": {
           "06222460-5d9a-4c70-b549-10b36b3bab10": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
-              "text": "Please note all purchases made between 2\/9 and 2\/17 will be shipped on 2\/20",
+              "text": "",
               "color_scheme": "accent-1",
               "link": ""
             }
